@@ -1,0 +1,3 @@
+﻿  WhileDOWhile.cpp
+C:\Users\admin\Desktop\Practice\WhileDOWhile\WhileDOWhile\WhileDOWhile.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  WhileDOWhile.vcxproj -> C:\Users\admin\Desktop\Practice\WhileDOWhile\x64\Debug\WhileDOWhile.exe

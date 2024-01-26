@@ -1,0 +1,30 @@
+PRACTICE GUIDE
+
+MyFirstApp - Hello World
+
+Tutorial2 - Annual Salary computation & User input
+
+Application2 - Data types & Sizes (Min & Max)
+
+DataTypeOverflow - explains the concept of exceeding the max value
+
+
+ASCIIProgram 
+- American Standard Code for Information Interchange
+- Standardizing the representation of characters in the computer.
+- In the Ascii table, characters are represented as numbers.
+- ASCII holds a character's numeric match in a table.
+
+
+IfElseStatement - if else
+
+ComplexIfElse - nested if else statements
+
+SwitchStatements - using switch, break, return and else-if 
+
+Calculator - Switch, break & default, Casting operator(convertion of data type), If-else
+
+Loop1 - For, While, Do While Loop
+
+
+
